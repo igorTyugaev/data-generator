@@ -1,0 +1,21 @@
+{
+  "name": "data-generator",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "old.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "2.4.1"
+  },
+  "dependencies": {
+    "koi8-r": "^3.0.2",
+    "line-reader": "^0.4.0",
+    "node-fetch": "^3.0.0"
+  }
+}
